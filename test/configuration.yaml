@@ -1,0 +1,66 @@
+default_config:
+
+demo:
+
+lovelace:
+  mode: storage
+  dashboards:
+    lovelace-yaml:
+      mode: yaml
+      title: yaml
+      filename: lovelace.yaml
+
+input_select:
+  test:
+    options:
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
+      - a
